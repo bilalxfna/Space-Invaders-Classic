@@ -1,0 +1,17 @@
+# .gitignore
+.vs/
+*.sln
+*.vcxproj*
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.user
+*.db
+*.suo
+*.log
+*.pch
+x64/
+Debug/
+Release/
+*.mp4
